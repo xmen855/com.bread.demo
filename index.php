@@ -5,8 +5,6 @@
         <title></title>
     </head>
     <body>
-        <?php
-        // put your code here
-        ?>
+        <p>code change from master</p>
     </body>
 </html>
